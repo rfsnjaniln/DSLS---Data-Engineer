@@ -1,0 +1,198 @@
+﻿ShipCity;CompanyName;JumlahOrder;TotalOrder
+Boise;Speedy Express;11;43
+Albuquerque;United Package;7;41
+Graz;Speedy Express;10;39
+Cunewalde;Speedy Express;11;38
+Rio de Janeiro;Speedy Express;14;38
+Boise;Federal Shipping;11;38
+London;Federal Shipping;16;37
+México D.F.;Federal Shipping;14;35
+Boise;United Package;9;35
+Rio de Janeiro;United Package;15;34
+Sao Paulo;United Package;12;32
+Graz;United Package;10;32
+Graz;Federal Shipping;10;31
+Sao Paulo;Speedy Express;11;29
+Luleå;United Package;9;27
+Cunewalde;United Package;9;26
+México D.F.;United Package;10;25
+Cork;United Package;9;24
+London;United Package;9;23
+Bräcke;Speedy Express;9;23
+London;Speedy Express;8;22
+Cunewalde;Federal Shipping;8;22
+München;United Package;7;22
+San Cristóbal;United Package;8;21
+Albuquerque;Federal Shipping;8;21
+Sao Paulo;Federal Shipping;8;21
+Tsawassen;Federal Shipping;8;20
+Frankfurt a.M.;Speedy Express;6;20
+Marseille;United Package;7;20
+Stuttgart;United Package;7;19
+Colchester;United Package;8;19
+Buenos Aires;United Package;7;19
+Charleroi;Federal Shipping;6;19
+Cork;Federal Shipping;6;18
+Frankfurt a.M.;United Package;8;18
+Montréal;United Package;7;18
+Brandenburg;United Package;6;17
+Charleroi;United Package;5;17
+Lander;United Package;6;16
+Oulu;United Package;5;16
+Seattle;United Package;5;16
+Brandenburg;Federal Shipping;5;16
+San Cristóbal;Speedy Express;7;16
+München;Speedy Express;5;15
+I. de Margarita;Speedy Express;5;15
+Seattle;Federal Shipping;5;15
+Lisboa;Federal Shipping;7;15
+Århus;Federal Shipping;4;14
+Marseille;Speedy Express;6;14
+Reggio Emilia;Speedy Express;7;14
+Eugene;United Package;7;14
+Cowes;United Package;6;13
+Bräcke;United Package;6;13
+I. de Margarita;United Package;4;13
+Portland;United Package;6;13
+Stavern;United Package;4;13
+Cork;Speedy Express;4;13
+Genève;Federal Shipping;4;13
+Luleå;Federal Shipping;4;13
+Oulu;Federal Shipping;6;13
+Barquisimeto;Federal Shipping;5;12
+Luleå;Speedy Express;5;12
+México D.F.;Speedy Express;4;12
+Genève;United Package;5;12
+Köln;United Package;5;12
+Lisboa;United Package;4;11
+Lyon;United Package;5;11
+Toulouse;United Package;4;11
+Salzburg;United Package;5;11
+Barquisimeto;United Package;4;11
+Barquisimeto;Speedy Express;5;11
+Anchorage;Federal Shipping;5;11
+Montréal;Federal Shipping;5;11
+München;Federal Shipping;3;11
+Rio de Janeiro;Federal Shipping;5;11
+Toulouse;Federal Shipping;4;10
+Marseille;Federal Shipping;4;10
+Anchorage;Speedy Express;3;10
+Århus;Speedy Express;4;10
+Madrid;Speedy Express;4;10
+Köln;Speedy Express;3;10
+Helsinki;Speedy Express;4;10
+Strasbourg;Speedy Express;5;10
+Toulouse;Speedy Express;6;10
+Sevilla;United Package;4;10
+San Francisco;United Package;4;10
+Tsawassen;United Package;3;9
+Strasbourg;United Package;3;9
+Resende;Speedy Express;4;9
+Seattle;Speedy Express;4;9
+Berlin;Speedy Express;4;9
+Albuquerque;Speedy Express;3;9
+Sevilla;Federal Shipping;3;9
+Bergamo;Federal Shipping;4;9
+Bräcke;Federal Shipping;4;9
+Colchester;Federal Shipping;4;9
+Kobenhavn;Federal Shipping;3;8
+Campinas;Federal Shipping;3;8
+Warszawa;Federal Shipping;4;8
+Vancouver;Federal Shipping;3;8
+San Cristóbal;Federal Shipping;3;8
+Lyon;Federal Shipping;3;8
+Buenos Aires;Speedy Express;5;8
+Oulu;Speedy Express;4;8
+Torino;Speedy Express;5;8
+Münster;United Package;4;8
+Bern;United Package;3;8
+Bruxelles;United Package;3;8
+Campinas;United Package;4;7
+Madrid;United Package;3;7
+Kirkland;United Package;2;7
+Reggio Emilia;United Package;4;7
+Resende;United Package;4;7
+Warszawa;United Package;2;7
+Bergamo;United Package;4;7
+Århus;United Package;3;7
+Stuttgart;Speedy Express;3;7
+Nantes;Speedy Express;3;7
+Sevilla;Speedy Express;3;7
+Bern;Speedy Express;3;7
+Mannheim;Federal Shipping;3;7
+Lille;Federal Shipping;2;7
+Strasbourg;Federal Shipping;3;7
+Buenos Aires;Federal Shipping;4;7
+Bern;Federal Shipping;2;7
+Köln;Federal Shipping;2;7
+Helsinki;Federal Shipping;3;7
+I. de Margarita;Federal Shipping;3;7
+Aachen;Federal Shipping;3;6
+Salzburg;Federal Shipping;3;6
+Cowes;Speedy Express;2;6
+Brandenburg;Speedy Express;3;6
+Leipzig;Speedy Express;2;6
+Lyon;Speedy Express;2;6
+Münster;Speedy Express;2;6
+Salzburg;Speedy Express;2;6
+Tsawassen;Speedy Express;3;6
+Versailles;Speedy Express;2;6
+Mannheim;United Package;3;6
+Lille;United Package;2;6
+Kobenhavn;United Package;2;5
+Versailles;United Package;2;5
+Genève;Speedy Express;1;5
+Elgin;Speedy Express;3;5
+Bruxelles;Speedy Express;2;5
+Bergamo;Speedy Express;2;5
+Reims;Federal Shipping;2;5
+Eugene;Federal Shipping;3;5
+Cowes;Federal Shipping;2;4
+Caracas;Federal Shipping;2;4
+Bruxelles;Federal Shipping;2;4
+Nantes;Federal Shipping;2;4
+Portland;Federal Shipping;3;4
+Barcelona;Speedy Express;2;4
+Campinas;Speedy Express;2;4
+Lisboa;Speedy Express;2;4
+Portland;Speedy Express;3;4
+Paris;United Package;2;4
+Nantes;United Package;2;4
+Reims;United Package;2;3
+Butte;United Package;1;3
+Montréal;Speedy Express;1;3
+Anchorage;United Package;2;3
+Charleroi;Speedy Express;1;3
+Eugene;Speedy Express;1;3
+Lille;Speedy Express;1;3
+Lander;Speedy Express;2;3
+Madrid;Federal Shipping;1;3
+Resende;Federal Shipping;1;3
+Butte;Federal Shipping;1;3
+Leipzig;Federal Shipping;2;3
+Kirkland;Federal Shipping;1;2
+Elgin;Federal Shipping;1;2
+Berlin;Federal Shipping;1;2
+Barcelona;Federal Shipping;2;2
+Aachen;Speedy Express;1;2
+Kobenhavn;Speedy Express;2;2
+Colchester;Speedy Express;1;2
+Butte;Speedy Express;1;2
+Barcelona;United Package;1;2
+Reims;Speedy Express;1;2
+Stavern;Speedy Express;1;2
+Aachen;United Package;2;2
+Elgin;United Package;1;2
+Leipzig;United Package;1;2
+Torino;United Package;1;2
+Walla Walla;United Package;1;1
+Paris;Speedy Express;1;1
+Berlin;United Package;1;1
+Warszawa;Speedy Express;1;1
+Mannheim;Speedy Express;1;1
+Walla Walla;Federal Shipping;1;1
+Stavern;Federal Shipping;1;1
+Reggio Emilia;Federal Shipping;1;1
+Paris;Federal Shipping;1;1
+Frankfurt a.M.;Federal Shipping;1;1
+Lander;Federal Shipping;1;1
